@@ -1,0 +1,7 @@
+340 34 1 41Ponchic 
+450 80 2 17Keks 
+500 10 1 31Kryassan 
+100 5  4 52Sladkie grenki 
+200 25 3 10Sloiki 
+!
+
